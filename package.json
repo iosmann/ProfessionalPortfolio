@@ -1,0 +1,22 @@
+{
+  "name": "professionalportfolio",
+  "version": "1.0.0",
+  "description": "Below I attached my Professional Portfolio link that was built using Bootstrap.  Click the link below to view the site:  https://iosmann.github.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iosmann/ProfessionalPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iosmann/ProfessionalPortfolio/issues"
+  },
+  "homepage": "https://github.com/iosmann/ProfessionalPortfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
